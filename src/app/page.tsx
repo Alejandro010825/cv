@@ -154,6 +154,9 @@ export default function Home() {
                     <li>C++</li>
                     <li>PSeInt</li>
                     <li>JavaScript</li>
+                    <li>TypeScript</li>
+                    <li>Python</li>
+                    <li>Java</li>
                   </ul>
                 </div>
               </div>
