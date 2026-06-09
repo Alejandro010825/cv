@@ -152,6 +152,8 @@ export default function Home() {
                     <li>JavaScript</li>
                     <li>Python</li>
                     <li>Java</li>
+                    <li>TypeScript</li>
+                    
                   </ul>
                 </div>
               </div>
