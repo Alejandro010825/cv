@@ -84,12 +84,12 @@ export default function Home() {
                   <h3 className="text-xl font-semibold text-white">CUTTRACK</h3>
                   <p className="text-green-300">React Native • Node.js • MySQL • WebSockets</p>
                   <p>
-                    Aplicación para registrar cortes de cabello, calcular intervalos desde el último corte y recomendar estilos o barberías. Implementé comunicación en tiempo real, historial de clientes y experiencias fluidas para el usuario.
+                    Aplicación para registrar cortes de cabello, calcular intervalos desde el último corte, historial de cortes y experiencias fluidas para el usuario.
                   </p>
                   <ul className="list-disc space-y-2 pl-5 text-white/70">
                     <li>Historial de cortes y recomendaciones.</li>
                     <li>Recordatorios automáticos.</li>
-                    <li>Chat en tiempo real para clientes y estilistas.</li>
+                    <li>Interfaz intuitiva y responsive.</li>
                   </ul>
                 </article>
 
@@ -114,11 +114,9 @@ export default function Home() {
                 <div className="rounded-2xl bg-black/70 p-6">
                   <h3 className="mb-4 text-lg font-semibold text-white">Frontend</h3>
                   <ul className="space-y-2 text-sm text-white/70">
-                    <li>React</li>
                     <li>Next.js</li>
                     <li>TailwindCSS</li>
                     <li>JavaScript</li>
-                    <li>TypeScript</li>
                     <li>HTML5</li>
                     <li>CSS3</li>
                   </ul>
@@ -130,7 +128,6 @@ export default function Home() {
                     <li>Express.js</li>
                     <li>REST APIs</li>
                     <li>JWT Authentication</li>
-                    <li>Multer</li>
                     <li>bcrypt</li>
                     <li>MySQL</li>
                     <li>AWS EC2</li>
@@ -152,9 +149,7 @@ export default function Home() {
                   <h3 className="mb-4 text-lg font-semibold text-white">Programación</h3>
                   <ul className="space-y-2 text-sm text-white/70">
                     <li>C++</li>
-                    <li>PSeInt</li>
                     <li>JavaScript</li>
-                    <li>TypeScript</li>
                     <li>Python</li>
                     <li>Java</li>
                   </ul>
@@ -168,7 +163,6 @@ export default function Home() {
                 <div className="rounded-2xl bg-black/70 p-6">
                   <h3 className="mb-4 text-lg font-semibold text-white">Técnicas</h3>
                   <ul className="space-y-2 text-sm text-white/70 list-disc pl-5">
-                    <li>Desarrollo Full Stack</li>
                     <li>APIs REST</li>
                     <li>Bases de datos MySQL</li>
                     <li>Administración Linux</li>
